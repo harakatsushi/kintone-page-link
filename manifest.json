@@ -1,0 +1,24 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "name": {
+    "ja": "ページ内リンク生成プラグイン",
+    "en": "liml"
+  },
+  "description": {
+    "ja": "ページ内リンク生成プラグイン",
+    "en": "liml"
+  },
+  "icon": "image/icon.png",
+
+  "desktop": {
+    "js": ["https://code.jquery.com/jquery-3.7.1.js", "js/desktop.js"],
+    "css": ["css/link.css"]
+  },
+  "config": {
+    "html": "html/config.html",
+    "js": ["js/config.js"],
+    "css": ["css/51-modern-default.css", "css/config.css"]
+  }
+}
