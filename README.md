@@ -1,4 +1,4 @@
 # kintone-page-link
 
-look here
+look 
 https://pagelink.ii-s.biz/
